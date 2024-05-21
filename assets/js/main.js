@@ -11,4 +11,4 @@ console.log(sr.origin);
 
 sr.reveal('.carousel_img, .footer_container');
 sr.reveal('.about_info, .founder_img', {origin: 'left'});
-sr.reveal('.about_img', {origin: 'right'});
+sr.reveal('.about_img, .founder_info', {origin: 'right'});

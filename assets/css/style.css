@@ -16,6 +16,11 @@ p {
     font-size: 15px;
 }
 
+a {
+    text-decoration: none !important;
+    color: #000 !important;
+}
+
 :root {
     --orange-color: hsl(25, 83%, 53%);
 }
